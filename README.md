@@ -1,9 +1,9 @@
 # C-car_simulation
-#include<graphics.h>
-#include<conio.h>
-#include<dos.h>
-class car
-{
+#include<graphics.h><br/>
+#include<conio.h><br>
+#include<dos.h><br>
+class car<br>
+{<br/>
 protected:
 	int x,y;
 	int outline;
